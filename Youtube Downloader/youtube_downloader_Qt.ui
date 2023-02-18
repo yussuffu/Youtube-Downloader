@@ -123,7 +123,7 @@ font: 75 12pt &quot;MV Boli&quot;;
     <widget class="QLineEdit" name="lineEdit_2">
      <property name="geometry">
       <rect>
-       <x>40</x>
+       <x>40</x> 
        <y>290</y>
        <width>341</width>
        <height>22</height>
